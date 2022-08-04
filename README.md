@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Venugopal8399
+- 👋 Hi, I’m @Venugopal
 - 👀 I’m interested in ... Experimenting With Technology
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... Java projects and Web projects
