@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Venugopal
 - 👀 I’m interested in ... Experimenting With Technology
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Core Java
 - 💞️ I’m looking to collaborate on ... Java projects and Web projects
 - 📫 How to reach me ... chvenugopal12@gmail.com
 
